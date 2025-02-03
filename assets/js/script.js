@@ -56,3 +56,20 @@ window.addEventListener("scroll", function () {
     backTopBtn.classList.remove("active");
   }
 });
+
+// Contact us form success message 
+document.getElementById('contactForm').addEventListener('submit', function (event) {
+  event.preventDefault(); 
+
+
+  const successMessage = document.querySelector('.success-message');
+  successMessage.style.display = 'block'; 
+
+
+  this.reset();
+
+
+  setTimeout(() => {
+    successMessage.style.display = 'none';
+  }, 5000);
+});
