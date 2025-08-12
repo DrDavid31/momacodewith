@@ -1,8 +1,8 @@
-InnoHub - We're available for marketing
+MOMA - Hacemos un Cambio en tu Negocio
 
 #---------- HEADER ----------#
 
-InnoHub
+MOMA
 
 Home
 Services
@@ -21,7 +21,7 @@ aria-label = Toggle menu
 
 #---------- HERO ----------#
 
-InnoHub Marketing Agency
+MOMA MKT
 
 We are available for marketing
 
