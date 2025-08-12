@@ -24,7 +24,7 @@ Ionicon
 ## Colors
 
 ``` css
---safety-orange: #7FFFD4;
+--safety-orange: #43d6bc;
 --lavender-gray: hsl(230, 19%, 81%);
 --persian-rose: hsl(328, 100%, 59%);
 --red-crayola: hsl(341, 100%, 49%);
