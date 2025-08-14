@@ -43,8 +43,7 @@ turquoise-blue: hsl(174, 72%, 56%);
 
 ## Gradient color
 
-``` css
---gradient: linear-gradient(to left top, var(--persian-rose), var(--turquoise-blue));
+``` css--gradient: linear-gradient(to left top, var(--turquoise-blue), var(--turquoise-blue));
 ```
 
 ## Typography
