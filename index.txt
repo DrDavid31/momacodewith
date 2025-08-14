@@ -21,7 +21,7 @@ aria-label = Toggle menu
 
 #---------- HERO ----------#
 
-MOMA MKT
+MOMA
 
 We are available for marketing
 
