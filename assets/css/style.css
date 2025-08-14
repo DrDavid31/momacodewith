@@ -289,6 +289,14 @@ body {
   line-height: 1;
 }
 
+display: inline-flex;
+  align-items: center;
+}
+
+.logo img {
+  height: 40px;
+  width: auto;
+  margin-right: 8px;
 .nav-toggle-btn { font-size: 40px; }
 
 .nav-toggle-btn.active .open,
