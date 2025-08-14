@@ -24,7 +24,7 @@ Ionicon
 ## Colors
 
 ``` css
---safety-orange: hsl(25, 100%, 50%);
+turquoise-blue: hsl(174, 72%, 56%);
 --lavender-gray: hsl(230, 19%, 81%);
 --persian-rose: hsl(328, 100%, 59%);
 --red-crayola: hsl(341, 100%, 49%);
@@ -44,7 +44,7 @@ Ionicon
 ## Gradient color
 
 ``` css
---gradient: linear-gradient(to left top, var(--persian-rose), var(--safety-orange));
+--gradient: linear-gradient(to left top, var(--persian-rose), var(--turquoise-blue));
 ```
 
 ## Typography
