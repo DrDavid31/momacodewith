@@ -724,6 +724,12 @@ textarea.input-field {
   font-weight: var(--fw-500);
   display: inline-block;
 }
+.avisoprivacidad-icon {
+  width: 20px;
+  height: auto;
+  margin-right: 4px;
+  vertical-align: middle;
+}
 
 .terminos-icon {
   width: 20px;
