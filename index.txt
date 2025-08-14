@@ -197,14 +197,15 @@ NY 10002, USA
 
 <ion-icon name="headset-outline" aria-hidden="true"></ion-icon>
 
-Call Here
-+123 456 7890
-+241 452 4526
+ Call Here
+  +123 456 7890
+  +241 452 4526
+ <ion-icon name="calendar-outline" aria-hidden="true"></ion-icon>
 
+Agenda una reunión
+  https://calendly.com/moma/meeting
 
-
-#---------- FOOTER ----------#
-
+  #---------- FOOTER ----------#
 &copy; 2022 All Rights Reserved by codewithsadee
 
 
