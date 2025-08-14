@@ -1,5 +1,3 @@
-'use strict';
-
 /**
  * add event on element
  */
@@ -55,4 +53,11 @@ window.addEventListener("scroll", function () {
     header.classList.remove("active");
     backTopBtn.classList.remove("active");
   }
+});
+
+window.addEventListener("load", function () {
+  const preloader = document.getElementById("preloader");
+  setTimeout(function () {
+    preloader.classList.add("hidden");
+  }, 4000);
 });
