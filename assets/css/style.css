@@ -744,6 +744,11 @@ textarea.input-field {
   vertical-align: middle;
 }
 
+/* Override color for legal links */
+.legal-link {
+  color: var(--turquoise-blue);
+}
+
 .terminos-icon {
   width: 20px;
   height: auto;
