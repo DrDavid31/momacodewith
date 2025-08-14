@@ -40,7 +40,7 @@
    * gradient color
    */
 
-  --gradient: linear-gradient(to left top, var(--persian-rose), var(--turquoise-blue));
+   --gradient: linear-gradient(to left top, var(--turquoise-blue), var(--turquoise-blue));
 
   /**
    * typography
