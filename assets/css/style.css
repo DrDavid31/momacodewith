@@ -725,7 +725,12 @@ textarea.input-field {
   display: inline-block;
 }
 
-
+.terminos-icon {
+  width: 20px;
+  height: auto;
+  margin-right: 4px;
+  vertical-align: middle;
+}
 
 
 
