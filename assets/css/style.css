@@ -722,7 +722,8 @@ textarea.input-field {
 .copyright-link {
   color: var(--red-crayola);
   font-weight: var(--fw-500);
-  display: inline-block;
+ display: inline-flex;
+  align-items: center;
 }
 .avisoprivacidad-icon {
   width: 20px;
