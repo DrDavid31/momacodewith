@@ -59,5 +59,5 @@ window.addEventListener("load", function () {
   const preloader = document.getElementById("preloader");
   setTimeout(function () {
     preloader.classList.add("hidden");
-  }, 4000);
+  }, 3000);
 });
