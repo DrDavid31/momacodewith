@@ -287,8 +287,6 @@ body {
   font-size: 3.5rem;
   font-weight: var(--fw-700);
   line-height: 1;
-}
-
 display: inline-flex;
   align-items: center;
 }
@@ -297,6 +295,8 @@ display: inline-flex;
   height: 40px;
   width: auto;
   margin-right: 8px;
+
+  
 .nav-toggle-btn { font-size: 40px; }
 
 .nav-toggle-btn.active .open,
