@@ -13,8 +13,7 @@ const addEventOnElem = function (elem, type, callback) {
   } else {
     elem.addEventListener(type, callback);
   }
-
-
+};
 /**
  * toggle navbar
  */
@@ -34,8 +33,6 @@ const closeNavbar = function () {
   navbar?.classList.remove("active");
   navToggler?.classList.remove("active");
 };
-
-}
 
 addEventOnElem(navbarLinks, "click", closeNavbar);
 
