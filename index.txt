@@ -121,9 +121,19 @@ It is a long established fact that a reader will be distracted by the readable c
 Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature.
 
 Our Mission
+Crear soluciones de marketing que impulsen el crecimiento sostenible de nuestros clientes,
+fusionando creatividad, tecnologia y analisis estrategico.
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in.
+#---------- NUESTRA FORMA DE TRABAJAR ----------#
 
+Nuestra forma de trabajar
+
+1. Entendemos tu necesidad
+2. Analizamos tu negocio
+3. Personalizamos la estrategia
+4. Cumplimos las metas que necesitas
+
+Cada cliente es único. Estrategias a la medida, contigo.
 
 
 #---------- CTA ----------#
