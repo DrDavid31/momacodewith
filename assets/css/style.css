@@ -1214,6 +1214,7 @@ textarea.input-field {
    * CONTACT
    */
 
+  
   .contact-form { padding: 50px; }
 
   .contact-card { gap: 20px; }
@@ -1240,6 +1241,11 @@ textarea.input-field {
   transition: var(--transition-2);
 }
 
+.preloader img {
+  width: 120px;
+}
+
 .preloader.hidden {
   opacity: 0;
   visibility: hidden;
+}
