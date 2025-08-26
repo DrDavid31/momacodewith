@@ -287,16 +287,9 @@ body {
   font-size: 3.5rem;
   font-weight: var(--fw-700);
   line-height: 1;
-display: inline-flex;
-  align-items: center;
+
 }
 
-.logo img {
-  height: 40px;
-  width: auto;
-  margin-right: 8px;
-
-  
 .nav-toggle-btn { font-size: 40px; }
 
 .nav-toggle-btn.active .open,
@@ -1214,7 +1207,6 @@ textarea.input-field {
    * CONTACT
    */
 
-  
   .contact-form { padding: 50px; }
 
   .contact-card { gap: 20px; }
@@ -1239,10 +1231,6 @@ textarea.input-field {
   align-items: center;
   z-index: 10;
   transition: var(--transition-2);
-}
-
-.preloader img {
-  width: 120px;
 }
 
 .preloader.hidden {
